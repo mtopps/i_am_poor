@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(
     MaterialApp(
+      //using material
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.brown,
